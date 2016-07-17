@@ -1,1 +1,1 @@
-include ':app', ':broadcastreceiverdemo', ':frameanimdemo'
+include ':app', ':broadcastreceiverdemo', ':frameanimdemo', ':myviewdemo'
