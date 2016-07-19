@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/frameanimdemo/frameanimdemo.iml" filepath="$PROJECT_DIR$/frameanimdemo/frameanimdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myprovider/myprovider.iml" filepath="$PROJECT_DIR$/myprovider/myprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/myviewdemo/myviewdemo.iml" filepath="$PROJECT_DIR$/myviewdemo/myviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" filepath="$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" />
     </modules>
   </component>
 </project>

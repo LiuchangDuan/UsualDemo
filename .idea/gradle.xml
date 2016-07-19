@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/frameanimdemo" />
             <option value="$PROJECT_DIR$/myprovider" />
             <option value="$PROJECT_DIR$/myviewdemo" />
+            <option value="$PROJECT_DIR$/sharedpreferencestest" />
           </set>
         </option>
       </GradleProjectSettings>
