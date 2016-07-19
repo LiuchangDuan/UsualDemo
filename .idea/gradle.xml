@@ -14,7 +14,9 @@
             <option value="$PROJECT_DIR$/broadcastreceiverdemo" />
             <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/customimageviewdemo" />
+            <option value="$PROJECT_DIR$/filepersistencetest" />
             <option value="$PROJECT_DIR$/frameanimdemo" />
+            <option value="$PROJECT_DIR$/myprovider" />
             <option value="$PROJECT_DIR$/myviewdemo" />
           </set>
         </option>

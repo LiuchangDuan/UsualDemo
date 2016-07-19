@@ -1,1 +1,1 @@
-include ':app', ':broadcastreceiverdemo', ':frameanimdemo', ':myviewdemo', ':customimageviewdemo', ':contactstest'
+include ':app', ':broadcastreceiverdemo', ':frameanimdemo', ':myviewdemo', ':customimageviewdemo', ':contactstest', ':myprovider', ':filepersistencetest'
