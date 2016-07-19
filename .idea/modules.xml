@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/UsualDemo.iml" filepath="$PROJECT_DIR$/UsualDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceiverdemo/broadcastreceiverdemo.iml" filepath="$PROJECT_DIR$/broadcastreceiverdemo/broadcastreceiverdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/broadcasttest/broadcasttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactstest/contactstest.iml" filepath="$PROJECT_DIR$/contactstest/contactstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/customimageviewdemo/customimageviewdemo.iml" filepath="$PROJECT_DIR$/customimageviewdemo/customimageviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customsimpleimageview/customsimpleimageview.iml" filepath="$PROJECT_DIR$/customsimpleimageview/customsimpleimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/frameanimdemo/frameanimdemo.iml" filepath="$PROJECT_DIR$/frameanimdemo/frameanimdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myprovider/myprovider.iml" filepath="$PROJECT_DIR$/myprovider/myprovider.iml" />
